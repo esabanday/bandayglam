@@ -1,22 +1,22 @@
 # Turkish Conversation Translation and Grammar Analysis
 
-## English Translation
+## Turkish-English Translation
 
-**Emre:** Is there anyone in Zonguldak?
-**Emre:** Hmm, should I not break the pot?
-**Luna:** No no, I was curious.
-**Emre:** Well, there are quite a few friends.
-**Emre:** We have a lot of friends here in Zonguldak.
-**Emre:** On the side of those who shouldn't be at the wedding.
-**Luna:** Huh.
-**Emre:** They thought they had filled those places.
-**Luna:** Well, how do you find those from Zonguldak?
-**Emre:** Well, like this.
-**Emre:** But those levels, yes, a little more like that.
-**Emre:** What should I say, like that.
-**Emre:** No way.
-**Emre:** Which one stayed behind?
-**Emre:** Different.
+**Emre:** Aramızda zonguldak'ta var mı? → Is there anyone in Zonguldak?
+**Emre:** Hmm pot kırmayalım sonra? → Hmm, should I not break the pot?
+**Luna:** Yok yok, merak ettim. → No no, I was curious.
+**Emre:** Ya birçok arkadaş var. → Well, there are quite a few friends.
+**Emre:** Bizim burada zonguldak'ta çoktur bizim bu. → We have a lot of friends here in Zonguldak.
+**Emre:** Ilı düğokta olmanın taraflarında. → On the side of those who shouldn't be at the wedding.
+**Luna:** Hıhı. → Huh.
+**Emre:** Zannıldaklar doldurmuş oraları. → They thought they had filled those places.
+**Luna:** Peki zonguldakları nasıl buluyorsunuz? → Well, how do you find those from Zonguldak?
+**Emre:** Ya şöyle. → Well, like this.
+**Emre:** İyi ama o derekler, evet, biraz daha böyle. → But those levels, yes, a little more like that.
+**Emre:** Ne diyim böyle bir. → What should I say, like that.
+**Emre:** Yobaz. → No way.
+**Emre:** Geri kalmış kafası hani? → Which one stayed behind?
+**Emre:** değişik. → Different.
 
 ## Turkish Grammar Analysis
 
