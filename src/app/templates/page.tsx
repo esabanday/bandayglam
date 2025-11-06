@@ -54,13 +54,13 @@ const mockTemplates: Template[] = [
     id: 7,
     name: 'Team Jersey',
     category: 'Sports',
-    image: '/images/templates/template7.png'
+    image: '/images/templates/template1.png'
   },
   {
     id: 8,
     name: 'Christmas Special',
     category: 'Holiday',
-    image: '/images/templates/template8.png'
+    image: '/images/templates/template2.png'
   }
 ]
 
